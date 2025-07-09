@@ -1,3 +1,3 @@
-# Lama Dev Chat App Starter template
+# Anushka's Chat Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a chat application which can be used for real-time messaging.

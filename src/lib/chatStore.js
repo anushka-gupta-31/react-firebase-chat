@@ -1,5 +1,5 @@
 import { create } from "zustand";
-import { useUserStore } from "../components/lib/userStore";
+import { useUserStore } from "./userStore";
 
 export const useChatStore = create((set) => ({
   chatId: null,
